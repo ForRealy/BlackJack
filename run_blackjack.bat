@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando Blackjack...
+start Blackjack.exe 
