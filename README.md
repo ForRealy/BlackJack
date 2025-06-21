@@ -22,11 +22,11 @@ A Python implementation of the classic card game BlackJack.
 ## Usage
 Run the main script to start playing:
 ```bash
-python main.py
+python blackjack_game.py
 ```
 
 ## Project Structure
-- `main.py`: Main game entry point
+- `blackjack_game.py`: Main game entry point
 - `requirements.txt`: Python dependencies
 - `README.md`: Project documentation
 
